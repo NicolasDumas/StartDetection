@@ -125,5 +125,9 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# heavy folders
+videos/
+videosChecked/
+
 # Pyre type checker
 .pyre/
